@@ -78480,7 +78480,7 @@ m.push(new A.ku(k.c,new A.a_J(r,k),14,i,i))}j=A.pc(B.bw,A.c([new A.BH("Support",
 h=h.e
 n=h.bn(0.7)
 s=s.a.a<760?A.bs(A.c([o,B.kI,j],p),B.C,B.v,B.o):A.cz(A.c([o,B.bQ,j],p),B.C,B.o)
-return A.d2(i,new A.fz(A.bs(A.c([s,B.QG,A.aqW(h.bn(0.6),1),B.eL,A.pc(B.zc,A.c([A.aG("\xa9 "+A.anP(new A.h8(Date.now(),0,!1))+" [Your name or business]. All rights reserved.",i,A.aW(i,i,q,i,i,i,i,i,i,i,i,13,i,i,i,i,i,!0,i,i,i,i,i,i,i,i),i),A.aG("Windows is a trademark of Microsoft Corporation. Site build 2026-11-15 13:58 UTC \xb7 8fcc7a7",i,A.aW(i,i,q.bn(0.8),i,i,i,i,i,i,i,i,12,i,i,i,i,i,!0,i,i,i,i,i,i,i,i),i)],p),B.cJ,8,16)],p),B.C,B.v,B.o),48,i),B.u,i,i,new A.bw(i,i,new A.cd(new A.bi(n,1,B.y,-1),B.n,B.n,B.n),i,i,i,B.H),i,i,i,i,i,i,i)}}
+return A.d2(i,new A.fz(A.bs(A.c([s,B.QG,A.aqW(h.bn(0.6),1),B.eL,A.pc(B.zc,A.c([A.aG("\xa9 "+A.anP(new A.h8(Date.now(),0,!1))+" [Your name or business]. All rights reserved.",i,A.aW(i,i,q,i,i,i,i,i,i,i,i,13,i,i,i,i,i,!0,i,i,i,i,i,i,i,i),i),A.aG("Windows is a trademark of Microsoft Corporation. Site build 2026-11-15 14:02 UTC \xb7 b06fae7",i,A.aW(i,i,q.bn(0.8),i,i,i,i,i,i,i,i,12,i,i,i,i,i,!0,i,i,i,i,i,i,i,i),i)],p),B.cJ,8,16)],p),B.C,B.v,B.o),48,i),B.u,i,i,new A.bw(i,i,new A.cd(new A.bi(n,1,B.y,-1),B.n,B.n,B.n),i,i,i,B.H),i,i,i,i,i,i,i)}}
 A.a_K.prototype={
 $1(a){return A.oa(this.a,!1).TR(a.d,t.X)},
 $S:502}
@@ -82967,18 +82967,18 @@ B.Gh=new A.hX("Refund policy","/refund",B.H6,2,"refund")
 B.nz=s([B.Gj,B.Gi,B.Gh],A.af("q<hX>"))
 B.HH=s([B.il,B.im],A.af("q<ve>"))
 B.HL=s([18,15,10,12,15,18,15,12,12],t.n)
-B.E4=new A.fb("Does PopupDeck need an internet connection?","No. PopupDeck has no network code at all: no account, no telemetry, no update checks. The trial runs on your PC and license keys are checked on your PC with a digital signature, so activation works offline too.")
-B.E7=new A.fb("What happens when the 7-day trial ends?","Trigger keys stop opening decks until you enter a license key. The editor, settings and export keep working, so your decks are never lost.")
+B.E3=new A.fb("Does PopupDeck need an internet connection?","No. PopupDeck has no network code at all: no account, no telemetry, no update checks. The trial runs on your PC and license keys are checked on your PC with a digital signature, so activation works offline too.")
+B.E6=new A.fb("What happens when the 7-day trial ends?","Trigger keys stop opening decks until you enter a license key. The editor, settings and export keep working, so your decks are never lost.")
 B.Eb=new A.fb("Which computers does it run on?","64-bit Windows 10 (version 1607 or newer) and Windows 11. It runs as a normal user; no admin rights are needed.")
-B.E3=new A.fb("How do I start PopupDeck after downloading it?","There is nothing to install: the downloaded .exe is the app. Move it to a folder of your own (for example Documents\\PopupDeck) and double-click it. If Windows says \u201cWindows protected your PC\u201d, click More info, then Run anyway. PopupDeck then sits in the system tray near the clock (it may be hidden under the ^ arrow), and the first start opens the editor with two sample decks. Set a trigger key there and click Save & apply. To open the editor later, double-click the tray icon, or right-click it and choose \u201cEdit decks\u2026\u201d. Turn on \u201cStart with Windows\u201d in the same menu to have it ready after every restart.")
+B.E9=new A.fb("How do I start PopupDeck after downloading it?","Run the downloaded .exe. PopupDeck then opens from the system tray, near the clock.")
 B.Ec=new A.fb("What is the device code, and why does checkout ask for it?","Each license key is issued for one PC. PopupDeck shows that PC\u2019s code under tray icon \u203a License. It is a one-way hash, so it reveals nothing about your computer. Give it at checkout and you receive a key that works on that PC.")
-B.E5=new A.fb("Can I use my license on another PC, or after reinstalling Windows?","No. A license works only on the PC whose device code it was issued for, and the device code changes when Windows is reinstalled or the PC is replaced. A license cannot be moved, so another PC or a fresh Windows installation needs a new license. Export your decks first so you can import them again.")
+B.E4=new A.fb("Can I use my license on another PC, or after reinstalling Windows?","No. A license works only on the PC whose device code it was issued for, and the device code changes when Windows is reinstalled or the PC is replaced. A license cannot be moved, so another PC or a fresh Windows installation needs a new license. Export your decks first so you can import them again.")
 B.Ea=new A.fb("Can I get a refund?","No. All sales are final. That is why PopupDeck comes with a free 7-day trial with every feature: please make sure it works for you before you buy.")
-B.E9=new A.fb("Will my license keep working after updates?","Yes. A permanent license is permanent: every future version of PopupDeck accepts the keys issued before it. Just download the new version and keep using it.")
-B.E8=new A.fb("How do I find out about new versions?","Since PopupDeck never goes online, it cannot tell you itself. New versions and their release notes appear in the What\u2019s new section on this page.")
+B.E8=new A.fb("Will my license keep working after updates?","Yes. A permanent license is permanent: every future version of PopupDeck accepts the keys issued before it. Just download the new version and keep using it.")
+B.E7=new A.fb("How do I find out about new versions?","Since PopupDeck never goes online, it cannot tell you itself. New versions and their release notes appear in the What\u2019s new section on this page.")
 B.Ed=new A.fb("Windows shows a warning when I run the download.","Windows SmartScreen warns about new downloads it has not seen often. You can check that your file is genuine by comparing its SHA-256 checksum with the one listed next to the download.")
-B.E6=new A.fb("Can I use it with my macro keyboard or mouse buttons?","Yes. PopupDeck reacts to any key that reaches Windows as a normal key press. Assign a spare button to F13 to F24 in your device\u2019s software and use that as the trigger.")
-B.HR=s([B.E4,B.E7,B.Eb,B.E3,B.Ec,B.E5,B.Ea,B.E9,B.E8,B.Ed,B.E6],A.af("q<fb>"))
+B.E5=new A.fb("Can I use it with my macro keyboard or mouse buttons?","Yes. PopupDeck reacts to any key that reaches Windows as a normal key press. Assign a spare button to F13 to F24 in your device\u2019s software and use that as the trigger.")
+B.HR=s([B.E3,B.E6,B.Eb,B.E9,B.Ec,B.E4,B.Ea,B.E8,B.E7,B.Ed,B.E5],A.af("q<fb>"))
 B.HT=s(["Every feature, no limits","No sign-up, no card","Runs fully offline","Keeps your decks if you buy later"],t.s)
 B.Jp=new A.nW("en",null,"US")
 B.nA=s([B.Jp],t.ss)
