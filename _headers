@@ -1,0 +1,25 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: DENY
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  X-Robots-Tag: noindex, nofollow
+
+/
+  Cache-Control: no-cache
+/index.html
+  Cache-Control: no-cache
+/flutter_bootstrap.js
+  Cache-Control: no-cache
+/flutter.js
+  Cache-Control: no-cache
+/main.dart.js
+  Cache-Control: no-cache
+/version.json
+  Cache-Control: no-cache
+/releases.json
+  Cache-Control: no-store
+/assets/*
+  Cache-Control: public, max-age=3600, must-revalidate
+/canvaskit/*
+  Cache-Control: public, max-age=86400

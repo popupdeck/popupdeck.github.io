@@ -5,14 +5,8 @@
     {
       "version": "0.9.0",
       "stage": "Alpha",
-      "date": "2026-11-15",
       "notes": [
-        "First Alpha build for testers. Expect rough edges, and please report what you find.",
-        "Pop-up decks on a trigger key, with press, hold and stay-open behaviours.",
-        "Actions: text, shortcut, open (app, file or folder), website, media and draggable volume, mouse click, system, and sequences of those.",
-        "Visual editor with layouts up to 20 × 12, about 2,200 icons, image icons, colours, and JSON import/export.",
-        "Light, dark and system themes.",
-        "Fully offline, with a 7-day free trial and offline license activation."
+        "Initial release (Alpha)."
       ],
       "files": {
         "windows-x64": {
@@ -21,8 +15,7 @@
           "size": 162572369,
           "sha256": "cc19dd069da99775a7ac8574290ae6e83a160b4aac248e39897967c81ed746ec"
         }
-      },
-      "infoUrl": "https://github.com/pin321/popupdeck-releases/releases/tag/v0.9.0-alpha"
+      }
     }
   ]
 }
